@@ -1,0 +1,73 @@
+// Mobile Mixins
+// Primary Content Styling - For the 2 first rows of content
+@mixin mobile-content-img {
+  display: block;
+  max-width: 100%; 
+}
+
+@mixin mobile-content-section {
+  padding-top: 59.031px; 
+  text-align: center;
+}
+
+@mixin mobile-content-title {
+  font-family: 'Fraunces', serif;
+  font-size: 2rem;
+  margin: 0 auto 29.574px;
+  width: 90%;
+}
+
+@mixin mobile-content-text {
+  color: $dark-grayish-blue;
+  font-size: 1.1rem;
+  font-weight: lighter;
+  line-height: 1.6;
+  margin: 0 auto 39.134px;
+  width: 92%;
+}
+
+@mixin mobile-content-link {
+  background:transparent;
+  color: black;
+  display: block;
+  font-family: 'Fraunces', serif;
+  font-size: 1.05rem;
+  margin-bottom: 61.811px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+@mixin mobile-content-link-background {
+  border-radius: 5px;
+  height: 9px;
+  margin: 0 auto;
+  opacity: 30%;
+  position: relative;
+  top: -7px;
+  transition: opacity 0.5s linear;
+  width: 136.063px;
+  z-index: -1;
+}
+
+//Secondary content styling - For the Graphic Design and Photography Content
+@mixin mobile-content-three-background-img {
+  overflow: auto;
+  padding-top: 399.629px;
+  text-align: center;
+}
+
+@mixin mobile-content-three-title {
+  color: $dark-desaturated-cyan;
+  font-family: 'Fraunces', serif;
+  font-size: 1.75rem;
+  margin-bottom: 26.795px;
+}
+
+@mixin mobile-content-three-text {
+  color: $dark-desaturated-cyan;
+  font-size: 0.98rem;
+  font-weight: medium;
+  line-height: 1.7;
+  margin: 0 auto 63.496px;
+  width: 92%;
+}

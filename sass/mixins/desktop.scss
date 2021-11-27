@@ -1,0 +1,34 @@
+//Desktop Mixins
+// Primary Content Styling - For the 2 first rows of content
+@mixin desktop-content-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 124px 80px 124px 165px;
+  text-align: left;
+  width: 50%;
+}
+
+@mixin desktop-content-img {
+  display: block;
+  height: 100%;
+  max-width: 100%;
+  width: 100%; 
+}
+
+@mixin desktop-content-title {
+  font-size: 2.5rem;
+  margin: 0 0 29.574px;
+  padding-right: 115px;
+  width: 100%;
+}
+
+@mixin desktop-content-text {
+  margin: 0 0 39.134px;
+  width: 100%;
+}
+
+@mixin desktop-content-link-background {
+  margin: 0;
+  left: -9px;
+}
