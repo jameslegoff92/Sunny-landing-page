@@ -44,3 +44,4 @@ This project taught me effective ways to solve 1,3 and 4. For #2, I learned the 
 ## Author
 
 - Frontend Mentor - https://www.frontendmentor.io/profile/jameslegoff92
+- Twitter - https://twitter.com/jameslegoff
