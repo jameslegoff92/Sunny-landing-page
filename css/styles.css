@@ -52,7 +52,7 @@ body {
   display: none;
 }
 .container .header .nav .nav__items {
-  background: white;
+  background: hsl(0deg, 0%, 100%);
   display: flex;
   flex-direction: column;
   margin: 0 auto;
@@ -63,7 +63,7 @@ body {
   text-align: center;
 }
 .container .header .nav .nav__items .nav__item {
-  color: #818498;
+  color: hsl(232deg, 10%, 55%);
   font-family: "Barlow", sans-serif;
   font-size: 1.3rem;
   font-weight: lighter;
@@ -72,14 +72,14 @@ body {
   text-decoration: none;
 }
 .container .header .nav .nav__items .nav__item:hover {
-  background-color: #fad400;
+  background-color: hsl(51deg, 100%, 49%);
   border-radius: 30px;
   color: black;
   font-family: "Fraunces", serif;
   font-size: 0.9rem;
   margin: 0 auto;
   text-transform: uppercase;
-  width: 40%;
+  width: 50%;
 }
 .container .header .nav .nav__items .nav__item:nth-child(4) {
   margin-bottom: 30px;
@@ -93,7 +93,7 @@ body {
   width: 87%;
 }
 .container .header .header__section .header__title {
-  color: white;
+  color: hsl(0deg, 0%, 100%);
   font-family: "Fraunces", serif;
   font-size: 2.5rem;
   letter-spacing: 5px;
@@ -124,7 +124,7 @@ body {
   width: 90%;
 }
 .container .main .content-one .content-one__section .content-one__text {
-  color: #818498;
+  color: hsl(232deg, 10%, 55%);
   font-size: 1.1rem;
   font-weight: lighter;
   line-height: 1.6;
@@ -142,7 +142,7 @@ body {
   text-transform: uppercase;
 }
 .container .main .content-one .content-one__section .content-one__link .content-one__link-background {
-  background: #fad400;
+  background: hsl(51deg, 100%, 49%);
   border-radius: 5px;
   height: 9px;
   margin: 0 auto;
@@ -174,7 +174,7 @@ body {
   width: 90%;
 }
 .container .main .content-two .content-two__section .content-two__text {
-  color: #818498;
+  color: hsl(232deg, 10%, 55%);
   font-size: 1.1rem;
   font-weight: lighter;
   line-height: 1.6;
@@ -192,7 +192,7 @@ body {
   text-transform: uppercase;
 }
 .container .main .content-two .content-two__section .content-two__link .content-two__link-background {
-  background: #fe7867;
+  background: hsl(7deg, 99%, 70%);
   border-radius: 5px;
   height: 9px;
   margin: 0 auto;
@@ -216,13 +216,13 @@ body {
   text-align: center;
 }
 .container .main .content-three .graphic-design .graphic-design__title {
-  color: #25564b;
+  color: hsl(167deg, 40%, 24%);
   font-family: "Fraunces", serif;
   font-size: 1.75rem;
   margin-bottom: 26.795px;
 }
 .container .main .content-three .graphic-design .graphic-design__text {
-  color: #25564b;
+  color: hsl(167deg, 40%, 24%);
   font-size: 0.98rem;
   font-weight: medium;
   line-height: 1.7;
@@ -236,13 +236,13 @@ body {
   text-align: center;
 }
 .container .main .content-three .photography .photography__title {
-  color: #25564b;
+  color: hsl(167deg, 40%, 24%);
   font-family: "Fraunces", serif;
   font-size: 1.75rem;
   margin-bottom: 26.795px;
 }
 .container .main .content-three .photography .photography__text {
-  color: #25564b;
+  color: hsl(167deg, 40%, 24%);
   font-size: 0.98rem;
   font-weight: medium;
   line-height: 1.7;
@@ -254,7 +254,7 @@ body {
   text-align: center;
 }
 .container .main .content-four .testimonials .testimonials__title {
-  color: #a7abae;
+  color: hsl(210deg, 4%, 67%);
   font-family: "Fraunces", serif;
   font-size: 1rem;
   letter-spacing: 4.5px;
@@ -268,7 +268,7 @@ body {
   width: 73px;
 }
 .container .main .content-four .testimonials .testimonials__container .testimonial .testimonial__text {
-  color: #5a636c;
+  color: hsl(213deg, 9%, 39%);
   font-size: 1.1rem;
   font-weight: medium;
   line-height: 1.75;
@@ -281,7 +281,7 @@ body {
   margin-bottom: 8.007px;
 }
 .container .main .content-four .testimonials .testimonials__container .testimonial .testimonial__credential {
-  color: #a7abae;
+  color: hsl(210deg, 4%, 67%);
   font-size: 0.88rem;
   font-weight: lighter;
   margin-bottom: 63.0314px;
@@ -297,7 +297,7 @@ body {
 }
 .container .footer {
   overflow: hidden;
-  background: #93d5c9;
+  background: rgb(147, 213, 201);
   padding-top: 61.228px;
   text-align: center;
 }
@@ -315,7 +315,7 @@ body {
   width: 295px;
 }
 .container .footer .footer-nav .footer-nav__link {
-  color: #458c7e;
+  color: hsl(168deg, 34%, 41%);
   font-size: 1.1rem;
   font-weight: lighter;
   text-decoration: none;
@@ -360,13 +360,13 @@ body {
     text-align: normal;
   }
   .container .header .nav .nav__items .nav__item {
-    color: white;
+    color: hsl(0deg, 0%, 100%);
     font-family: "Barlow", sans-serif;
     font-size: 1rem;
     text-align: none;
   }
   .container .header .nav .nav__items .nav__item:hover {
-    background-color: white;
+    background-color: hsl(0deg, 0%, 100%);
     border-radius: 30px;
     color: black;
     font-family: "Fraunces", serif;
@@ -454,7 +454,7 @@ body {
     width: 100%;
   }
   .container .main .content-two .content-two__section .content-two__link .content-two__link-background {
-    background: #fe7867;
+    background: hsl(7deg, 99%, 70%);
     margin: 0;
     left: -9px;
   }
