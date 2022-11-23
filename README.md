@@ -1,23 +1,8 @@
 ## Table of contents
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
-
-
-### Links
-
-- Solution URL: https://github.com/jameslegoff92/Sunny-landing-page
-- Live Site URL: https://jameslegoff92.github.io/Sunny-landing-page/
-
-## My process
-
-1. Analyze design files before creating markup.
-2. Look for repetitive components or styles.
-3. Use the mobile first methodology, building section by section.
-4. Verify the site's aesthetics at all sizes.
-5. Refactor code to enhance readability.
+*[Built with](#built-with)*  
+*[Objectives](#objectives)*  
+*[What I learned](#what-i-learned)*  
+*[Author](#author)*
 
 ### Built with
 
